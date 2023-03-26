@@ -14,6 +14,6 @@
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
   <a href="nikitaromanof@yandex.ru">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/yandex-yellow?logo=yandex&logoColor=white&style=for-the-badge" alt="Yandex Badge"/>
   </a>
 </div>

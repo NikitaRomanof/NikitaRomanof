@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzczNTE2OWE1YTU5NTczNWIxYTYxZDM3YjUxNjY2NzVkNDU4NzY5YSZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif" width="150"/>
   
   <div id="badges">
   <a href="https://t.me/Nikitaromanof">

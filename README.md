@@ -5,6 +5,6 @@
 </div>
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/yandex-yellow?logo=yandex&logoColor=white&style=for-the-badge" alt="Yandex Badge"/>
+  <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/yandex-yellow?logo=yandex&logoColor=white&style=for-the-badge"/>
 </div>

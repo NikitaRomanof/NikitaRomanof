@@ -13,7 +13,7 @@
   <a href="https://t.me/Nikitaromanof">
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
-  <a href="nikitaromanof@yandex.ru">
+  <a href="mailto:nikitaromanof@yandex.ru">
     <img src="https://img.shields.io/badge/yandex-yellow?logo=yandex&logoColor=white&style=for-the-badge" alt="Yandex Badge"/>
   </a>
 </div>

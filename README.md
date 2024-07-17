@@ -24,7 +24,7 @@
 
 I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :telescope: I’m studing as a Software Engineer.
+- :telescope: I work as a Java developer in an international financial company.
 
 - :seedling: Exploring Technical Content Writing.
 
